@@ -6,5 +6,4 @@ print("Hello Jenkins babu...")
 
 print("Hello automation....")
 
-print("Pori- I AM VENGENCE!!!!!!!!!")
 
