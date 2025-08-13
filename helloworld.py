@@ -5,5 +5,3 @@ print("Changes made to helloworld.py")
 print("Hello Jenkins babu...")
 
 print("Hello automation....")
-
-print("Hello pori")
